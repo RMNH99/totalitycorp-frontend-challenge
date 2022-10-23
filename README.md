@@ -1,1 +1,1 @@
-# totalitycorp-frontend-challenge
+# Totality Corp Frontend Challenge
